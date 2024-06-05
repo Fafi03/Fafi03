@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fafi03
-- 👀 I’m interested in Fixing errors
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning at Adama science and technology university
 - 💞️ I’m looking to collaborate on Front end
 - 📫 How to reach me https://t.me/fatum631
